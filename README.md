@@ -124,7 +124,7 @@ Applying the PWM on the enable is less effective. Indeed, the motor will act hal
 
 The card is based on the schematic of the Motor Driver 2A Dual L298 H-Bridge for Arduino. Each board can handle two motors. Four leds allow the user to know if the motor is powered supplied and for which direction. Schematics and files can be found in the git project folder.
 
-<a href="url"><img src="/docs/images/picture10.jpg" align="center" height="903" width="654"></a>
+<a href="url"><img src="/docs/images/picture10.jpg" align="center" height="445" width="615"></a> 
 
 The board is made to be directly connected to the myRIO outputs. A connector on the board allows connecting other devices to the myRIO through the board (because the board takes all the space for the outputs on the myRIO).
 
