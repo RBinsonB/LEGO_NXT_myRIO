@@ -179,7 +179,7 @@ Those tests are not really necessary to use the sensor but I thought they would 
 
 Test made with a static sensor, the object used as a target is a small cardboard box (14.5 cm x 9.5 cm x 6 cm).
 
-<a href="url"><img src="/docs/images/image12.png" align="center" height="393" width="614"></a>
+<a href="url"><img src="/docs/images/image12.jpg" align="center" height="393" width="614"></a>
 
 From the results above it can be deducted (for a static use), that for small distance the accuracy is good (for a non-industrial sensor) and not very accurate at the very beginning of the range (measured value bigger than real value).
 
@@ -187,7 +187,7 @@ From the results above it can be deducted (for a static use), that for small dis
 
 Test made by moving slowly the sensor to a wall in continuous reading mode (speed of approximately 30cm/s).
 
-<a href="url"><img src="/docs/images/image13.png" align="center" height="393" width="614"></a>
+<a href="url"><img src="/docs/images/image13.jpg" align="center" height="393" width="614"></a>
 
 From the results above, it can be deducted that some areas are not accurate, especially between 25cm and 50cm where the sensor can return the value of 48cm. Also on all the range the sensor returns sometime the error value (255).
 
