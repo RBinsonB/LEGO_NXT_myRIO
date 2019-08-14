@@ -208,9 +208,7 @@ Also the I2C protocol used by NXT is a little bit different than standard I2C. F
 One of the problem by using myRIO was that some digital Input/Output from myRIO are using a pull-up resistor of low resistance (the DIO 14 and 15 from the connector A and B). The sensor wasn’t able to pull down the line enough to transmit data, it’s important to use other DIO, which are using a bigger resistor.
 
 <a href="url"><img src="/docs/images/image13.png" align="center" height="348" width="587"></a>
-
 <a href="url"><img src="/docs/images/image14.png" align="center" height="348" width="587"></a>
-
 <a href="url"><img src="/docs/images/image15.png" align="center" height="348" width="587"></a>
 
 Also the sensor need 4V for its I2C communication and myRIO delivers only 3.3V. It’s enough to make the communication works, but it’s also possible to use a board that allowsI2C between devices with different voltages.
